@@ -12,9 +12,3 @@ This is a simple book library web application that allows users to view, create,
 - Add a new book to the library with title, author, and description.
 - Delete a book from the library.
 
-## Installation
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/Sdztrke/book-library.git
